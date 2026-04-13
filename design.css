@@ -1,9 +1,10 @@
 body{
     background-color:#FADEF6
 }
-h1{
-    color:#f792e9
-    text-shadow: 1px 1px #FFFFFF
+h1
+{
+color:#f792e9
+  h-shadow 1px 1px orange, 2px 2px red;
 }
 .about{
     color:#FABDF2
